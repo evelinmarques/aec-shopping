@@ -47,6 +47,8 @@ Caso deseje executar o container do Docker, se certifique de ter o Docker instal
     docker run -p 3000:3000 shopping-card-challenge
     
 </p>
+<h1 align="center"> 🚀    Deploy: <a href="https://aec-shopping-evelinmarques.vercel.app/">Clique aqui</a> 
+</h1>
 <h1 align="center"> 
   🛠 Tecnologias: 
 </h1>
