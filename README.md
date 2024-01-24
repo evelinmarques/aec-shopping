@@ -2,9 +2,7 @@
   Resultado Visual Esperado: 
   <img src="https://github.com/evelinmarques/playSound/assets/56482367/fe5d5bb1-e8e8-4def-8390-13057d7f1ddc">
   <img src="https://github.com/evelinmarques/playSound/assets/56482367/a04fa219-a8b2-43b9-b855-e58389cf36e6">
-
 </h1>
-<img src="">
 
 <h1 align="center"> 
   Requisitos do Projeto: 
